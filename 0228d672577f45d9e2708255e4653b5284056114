@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "14707b75_c751b45c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2022-10-06T09:19:54Z",
+      "side": 1,
+      "message": "Disable `LocalContactsBackup` instead: https://github.com/seedvault-app/seedvault/blob/android12/contactsbackup/Android.bp",
+      "revId": "0228d672577f45d9e2708255e4653b5284056114",
+      "serverId": "5979fb85-960d-4ec4-8ce0-8568b21942fe"
+    }
+  ]
+}
