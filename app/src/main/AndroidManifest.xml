@@ -21,9 +21,11 @@
 
     <!-- (Optional) This is needed to retrieve the available storage roots.
          The user needs to manually select a storage root, if not granted. -->
+    <!-- DISABLED FOR GTS
     <uses-permission
         android:name="android.permission.MANAGE_DOCUMENTS"
         tools:ignore="ProtectedPermissions" />
+    -->
 
     <!-- This is needed to access the serial number of USB mass storage devices -->
     <uses-permission
