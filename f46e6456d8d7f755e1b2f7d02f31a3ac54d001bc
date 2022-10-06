@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e86b883c_6259e2da",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2022-10-06T16:57:58Z",
+      "side": 1,
+      "message": "thanks!\n\nand i guess this will be permanently for G builds, because after talking with Torsten he mentioned, that if we are using Google Contacts, chances are low that there are even local contacts existing on the device and we can just not ship the app at all.",
+      "revId": "f46e6456d8d7f755e1b2f7d02f31a3ac54d001bc",
+      "serverId": "5979fb85-960d-4ec4-8ce0-8568b21942fe"
+    }
+  ]
+}
