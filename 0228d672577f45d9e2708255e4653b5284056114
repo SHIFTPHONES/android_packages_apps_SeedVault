@@ -1,6 +1,23 @@
 {
   "comments": [
     {
+      "unresolved": true,
+      "key": {
+        "uuid": "953f49b8_46c120f5",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2022-10-06T09:20:49Z",
+      "side": 1,
+      "message": "Also please prefix commits, which are not meant to be upstreamed with `(SHIFT)` 😊",
+      "revId": "0228d672577f45d9e2708255e4653b5284056114",
+      "serverId": "5979fb85-960d-4ec4-8ce0-8568b21942fe"
+    },
+    {
       "unresolved": false,
       "key": {
         "uuid": "14707b75_c751b45c",
