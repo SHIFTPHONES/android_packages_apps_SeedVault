@@ -4,7 +4,7 @@
 //
 
 android_app {
-    name: "LocalContactsBackup",
+    name: "LocalContactsBackup_disabled",
     srcs: [
         "src/main/java/**/*.java",
     ],
